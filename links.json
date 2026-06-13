@@ -1,0 +1,39 @@
+{
+  "data":[
+    {
+      "name":"VidKing"
+      "url":"https://www.vidking.net/embed/<1>/<2>/<3>/<4>",
+      "labels":{
+        "<1>": "mediaType",
+        "<2>": "tmdb-id",
+        "<3>": "seasons",
+        "<4>": "episode"
+      }
+    },
+    {
+      "name":"VidSrc",
+      "url":"https://vidsrc.ru/<1>/<2>/<3>/<4>/colour=00ff9d&autoplay=true&pausescreen=true",
+      "labels":{
+        "<1>": "mediaType",
+        "<2>": "tmdb-id",
+        "<3>": "seasons",
+        "<4>": "episode"
+      }
+    },
+    {
+      "name":"VidSrc Embed",
+      "url":"https://vidsrc-embed.ru/embed/<1>/<2>/<3>-<4>",
+      "labels":{
+        "<1>": "mediaType",
+        "<2>": "tmdb-id",
+        "<3>": "seasons",
+        "<4>": "episode"
+      }
+    }
+
+
+
+
+  ]
+
+}
