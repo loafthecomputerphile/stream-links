@@ -1,16 +1,10 @@
 {
   "data":[
     {
-      "name":"Mercury",
-      "base":"dmlkZmFzdC5wcm8=",
-      "movieUrl":"https://<base>/<1>/<2>",
-      "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
-    },
-    {
       "name":"Venus",
-      "base":"ZW1iZWQuenhjc3RyZWFtLnh5eg==",
-      "movieUrl":"https://<base>/player/<1>/<2>",
-      "tvUrl":"https://<base>/player/<1>/<2>/<3>/<4>"
+      "base":"dmlka2luZy5uZXQ=",
+      "movieUrl":"https://www.<base>/embed/<1>/<2>",
+      "tvUrl":"https://www.<base>/embed/<1>/<2>/<3>/<4>"
     },
     {
       "name":"Mars",
