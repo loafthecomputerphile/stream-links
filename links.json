@@ -14,7 +14,7 @@
     },
     {
       "name":"Earth",
-      "base":"dmlkc3JjLWVtYmVkLnJ1",
+      "base":"dmlkc3JjbWUucnU=",
       "movieUrl":"https://<base>/embed/<1>/<2>",      
       "tvUrl":"https://<base>/embed/<1>/<2>/<3>-<4>"
     },
