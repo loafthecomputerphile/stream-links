@@ -8,15 +8,9 @@
     },
     {
       "name":"Venus",
-      "base":"dmlkc3JjLnJ1",
-      "movieUrl":"https://<base>/<1>/<2>",
-      "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
-    },
-    {
-      "name":"Earth",
-      "base":"dmlkc3JjbWUucnU=",
-      "movieUrl":"https://<base>/embed/<1>/<2>",      
-      "tvUrl":"https://<base>/embed/<1>/<2>/<3>-<4>"
+      "base":"ZW1iZWQuenhjc3RyZWFtLnh5eg==",
+      "movieUrl":"https://<base>/player/<1>/<2>",
+      "tvUrl":"https://<base>/player/<1>/<2>/<3>/<4>"
     },
     {
       "name":"Mars",
