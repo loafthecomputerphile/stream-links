@@ -7,6 +7,12 @@
       "tvUrl":"https://www.<base>/embed/<1>/<2>/<3>/<4>"
     },
     {
+      "name":"Earth",
+      "base":"dmlkc3JjLnJ1",
+      "movieUrl":"https://<base>/<1>/<2>",
+      "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
+    },
+    {
       "name":"Mars",
       "base":"cGxheS54cGFzcy50b3A=",
       "movieUrl":"https://<base>/e/<1>/<2>",
