@@ -5,7 +5,7 @@
       "base":"ZW1iZWQuenhjc3RyZWFtLnh5eg==",
       "movieUrl":"https://<base>/player/<1>/<2>",
       "tvUrl":"https://<base>/player/<1>/<2>/<3>/<4>"
-    }
+    },
     {
       "name":"Venus",
       "base":"dmlka2luZy5uZXQ=",
@@ -20,13 +20,19 @@
     },
     {
       "name":"Mars",
-      "base":"cGxheS54cGFzcy50b3A=",
-      "movieUrl":"https://<base>/e/<1>/<2>",
-      "tvUrl":"https://<base>/e/<1>/<2>/<3>/<4>"
+      "base":"dmlkZmFzdC5wcm8=",
+      "movieUrl":"https://<base>/<1>/<2>",
+      "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
     },
     {
       "name":"Jupiter",
       "base":"cGxheWVyLnZpZGVhc3kudG8=",
+      "movieUrl":"https://<base>/<1>/<2>",
+      "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
+    },
+    {
+      "name":"Saturn",
+      "base":"ZW1iZWRtYXN0ZXIubGluaw==",
       "movieUrl":"https://<base>/<1>/<2>",
       "tvUrl":"https://<base>/<1>/<2>/<3>/<4>"
     }
